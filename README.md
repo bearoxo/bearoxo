@@ -22,15 +22,13 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bearoxo" height="30" width="40" /></a>
 </p>
 
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-
-
-### ❤ Support ❤
-
+## ❤ Support ❤
 [![Patreon][patreon-badge]][patreon]
 [![Liberapay][liberapay-badge]][liberapay]
 [![Ko-Fi][kofi-badge]][kofi]
-
 
 [patreon-badge]: https://img.shields.io/badge/Support-Become%20a%20Patreon!-red.svg
 [patreon]: https://www.patreon.com/join/andy_fazulus?
@@ -38,12 +36,6 @@ Here are some ideas to get you started:
 [liberapay]: https://liberapay.com/andy_fazulus/donate
 [kofi-badge]: https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee!-%2346b798.svg
 [kofi]: https://ko-fi.com/andy_fazulus
-
-----
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bearoxo) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bearoxo) 
