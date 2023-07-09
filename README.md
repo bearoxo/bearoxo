@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Andy, welcome to my GitHub page. 👋
 
 <!--
 **bearoxo/bearoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 💫 About Me:
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+⚡ Fun fact
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bearoxo" height="30" width="40" /></a>
@@ -22,10 +30,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bearoxo" height="30" width="40" /></a>
 </p>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-## ❤ Support ❤
+### ❤ Support ❤
 [![Patreon][patreon-badge]][patreon]
 [![Liberapay][liberapay-badge]][liberapay]
 [![Ko-Fi][kofi-badge]][kofi]
@@ -106,8 +111,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=bearoxo&icon=3&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/andy_fazulus) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/andy_fazulus) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
