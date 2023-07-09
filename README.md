@@ -2,17 +2,6 @@
 
 <!--
 **bearoxo/bearoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # 💫 About Me:
@@ -25,10 +14,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bearoxo" height="30" width="40" /></a>
-<a href="https://dribbble.com/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bearoxo" height="30" width="40" /></a>
-<a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bearoxo" height="30" width="40" /></a>
+<a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="bearoxo" height="35" width="45" /></a>
+<a href="https://dribbble.com/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bearoxo" height="35" width="45" /></a>
+<a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@bearoxo" height="35" width="40" /></a>
 </p>
+
+[![Github](https://img.shields.io/github/followers/bearoxo?style=social&label=Follow)](https://github.com/bearoxo)
+
 
 ### ❤ Support ❤
 [![Patreon][patreon-badge]][patreon]
