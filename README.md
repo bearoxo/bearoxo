@@ -69,7 +69,7 @@
 
 ### Content Management System
 <p align="left"> 
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a> 
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a> 
 </p>
 
 ### Hosting & Cloud Platforms
