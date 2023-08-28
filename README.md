@@ -3,7 +3,8 @@
 -->
 
 ### 👋 Hi, I'm Fayzal, welcome to my GitHub page.
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=bearoxo&label=Profile%20Views&color=8&icon=3&pretty=true" /></a>
+  <!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=bearoxo&label=Profile%20Views&color=8&icon=3&pretty=true" /></a> -->
+  ![](https://komarev.com/ghpvc/?username=bearoxo)
   <a href="https://github.com/bearoxo"><img src="https://img.shields.io/github/followers/bearoxo?style=social&label=Follow" alt="Follow on GitHub"></a>
 
 # 💫 About Me:
