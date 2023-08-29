@@ -14,8 +14,8 @@
     <a href="https://www.linkedin.com/in/afdzalyunus/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="35" width="40" /></a>
     <a href="https://github.com/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="35" width="40" /></a>
     <a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" height="35" width="45" /></a>
-    <a href="https://dribbble.com/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" height="35" width="45" /></a>
     <a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="35" width="40" /></a>
+    <a href="https://dribbble.com/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" height="35" width="45" /></a>
   </p>
 </div>
 
