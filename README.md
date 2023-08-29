@@ -18,9 +18,8 @@
   </p>
 </div>
 
-<hr>
-
 # 💫 About Me:
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="bearoxo github stats" /></p>
 🔭 I’m currently working on nothing...<br>
 👯 I’m looking to collaborate on something...<br>
 🤝 I’m looking for help with coding...<br>
@@ -29,18 +28,16 @@
 ⚡ Fun fact: Did you know that it's impossible to hum while holding your nose?<br>
 
 ## 📊 GitHub Stats:
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bearoxo&theme=merko&hide_border=false" alt="bearoxo github stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="bearoxo github stats" />
-
-
-  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="bearoxo github stats" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bearoxo&theme=merko&hide_border=false" alt="bearoxo github stats" />
 
 ## ❤ Support ❤
-[![Patreon][patreon-badge]][patreon]
-[![Liberapay][liberapay-badge]][liberapay]
-[![Ko-Fi][kofi-badge]][kofi]
+<div align="center">
+  
+  [![Patreon][patreon-badge]][patreon]
+  [![Liberapay][liberapay-badge]][liberapay]
+  [![Ko-Fi][kofi-badge]][kofi]
+</div>
 
 [patreon-badge]: https://img.shields.io/badge/Support-Become%20a%20Patreon!-red.svg
 [patreon]: https://www.patreon.com/join/andy_fazulus?
@@ -50,8 +47,7 @@
 [kofi]: https://ko-fi.com/andy_fazulus
 
 ## 💻 Tech Stack
-
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td><b>Languages</b></td>
