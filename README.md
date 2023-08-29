@@ -2,10 +2,23 @@
 **bearoxo/bearoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 👋 Hi, I'm Fayzal, welcome to my GitHub page.
+<div align="center">
+  <h1>👋 <a href="https://afdzal.dev">Afdzal Yunus</a> 👋</h1>
   <!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=bearoxo&label=Profile%20Views&color=8&icon=3&pretty=true" /></a> -->
+
   ![](https://komarev.com/ghpvc/?username=bearoxo)
   <a href="https://github.com/bearoxo"><img src="https://img.shields.io/github/followers/bearoxo?style=social&label=Follow" alt="Follow on GitHub"></a>
+  <br>
+  <p>
+    <a href="https://twitter.com/afdzal_yunus" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" height="30" width="35" /></a>
+    <a href="https://github.com/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="35" width="40" /></a>
+    <a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" height="35" width="45" /></a>
+    <a href="https://dribbble.com/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" height="35" width="45" /></a>
+    <a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="35" width="40" /></a>
+  </p>
+</div>
+
+<hr>
 
 # 💫 About Me:
 🔭 I’m currently working on nothing...<br>
@@ -15,16 +28,13 @@
 💬 Ask me about anything...<br>
 ⚡ Fun fact: Did you know that it's impossible to hum while holding your nose?<br>
 
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="bearoxo" height="35" width="45" /></a>
-  <a href="https://dribbble.com/bearoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bearoxo" height="35" width="45" /></a>
-  <a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@bearoxo" height="35" width="40" /></a>
-</p>
-
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=bearoxo&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bearoxo&theme=merko&hide_border=false" alt="bearoxo github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="bearoxo github stats" />
+
+
+  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ❤ Support ❤
