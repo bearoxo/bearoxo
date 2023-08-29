@@ -28,8 +28,10 @@
 ⚡ Fun fact: Did you know that it's impossible to hum while holding your nose?<br>
 
 ## 📊 GitHub Stats:
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="bearoxo github stats" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bearoxo&theme=merko&hide_border=false" alt="bearoxo github stats" />
+<span>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bearoxo&theme=merko&hide_border=false" alt="bearoxo github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="bearoxo github stats" />
+</span>
 
 ## ❤ Support ❤
 <div align="center">
