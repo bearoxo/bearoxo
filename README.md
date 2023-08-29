@@ -19,7 +19,7 @@
   </p>
 </div>
 
-# 💫 About Me:
+## 💫 About Me
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="bearoxo github stats" /></p>
 🔭 I’m currently working on nothing...<br>
 👯 I’m looking to collaborate on something...<br>
@@ -27,8 +27,9 @@
 🌱 I’m currently learning everything...<br>
 💬 Ask me about anything...<br>
 ⚡ Fun fact: Did you know that it's impossible to hum while holding your nose?<br>
+<br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bearoxo&theme=merko&hide_border=false" alt="bearoxo github stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=bearoxo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="bearoxo github stats" />
