@@ -14,7 +14,9 @@
     <a href="https://www.linkedin.com/in/afdzalyunus/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="40" width="40" /></a>
     <a href="https://github.com/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40" width="40" /></a>
     <a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" height="40" width="45" /></a>
+    <a href="https://codesandbox.io/u/bearoxo" target="blank"><img align="center" src="https://seekicon.com/free-icon-download/code-sandbox-square_1.svg" alt="codesandbox" height="40" width="45" /></a>
     <a href="https://medium.com/@bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="40" width="40" /></a>
+    <a href="https://dev.to/bearoxo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="dev.to" height="40" width="40" /></a>
     <a href="https://dribbble.com/bearoxo" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Dribbble-512.png" alt="dribbble" height="40" width="40" /></a>
   </p>
 </div>
