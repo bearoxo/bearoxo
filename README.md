@@ -10,7 +10,7 @@
   <a href="https://github.com/bearoxo"><img src="https://img.shields.io/github/followers/bearoxo?style=social&label=Follow" alt="Follow on GitHub"></a>
   <br>
   <p>
-    <a href="https://twitter.com/afdzal_yunus" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40" /></a>
+    <a href="https://twitter.com/afdzalyunus" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/afdzalyunus/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="40" width="40" /></a>
     <a href="https://github.com/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40" width="40" /></a>
     <a href="https://codepen.io/bearoxo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" height="40" width="45" /></a>
